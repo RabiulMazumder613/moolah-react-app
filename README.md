@@ -1,73 +1,28 @@
+# moolah-react-app
+
+**moolah-react-app** is a mock banking website similar to other banking sites. Has an About, Discover, Services, and Sign Up section. Uses styled-components and smooth scroll. 
+
+Time spent: **17** days spent in total
+
+## Purpose
+The main purpose of the site is to practice building a React website using styled-components and utilizing npm react components like React Scroll which is used to animate vertical scrolling between the different sections of the page. So when the home logo is pressed it'll animatedly scroll to the very top of the page. If About, Discover, Services, and Sign Up is clicked on using the Navigation Bar it'll animatedly scroll to those sections of the page for ease of navigation and have a green underline to highlight to user which section of the page they are at. React-icons were used to get varying icons like the hamburger menu bars, icons for social media companies, arrows, etc. The majority of the buttons are animated when hovered by changing color, icon change, or changing size. The footer has typical service stuff at the bottom which only links to the sign-in page as it would have taken a lot of time to make those individual pages for all those varying services. The footer also has the moolah logo and the logo of different social media platforms when clicked just goes to that social media’s home page. When the sizing of the browser changes the website adjusts its size to fit the minimizing browser. When it gets small enough the navigation bar gets replaced with a hamburger menu bars icon so when it's clicked on a drop-down of the About, Discover, Services, and Sign Up section options comes up. When the Sign In button is pressed it takes you to the Sign In page where it asks the user for the email and password. The sign-in isn't functional it is just there as a mockup.
+
+## Video Walkthrough
+
+Here's a walkthrough of the moolah-react-app:
+
+**Fullscreen Browser Window:**
+<img src='moolah.gif' title='Video Walkthrough' width='1500' alt='Video Walkthrough' />
+
+**Minimized Browser Window:**
+
+<img src='moolah2.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Resources
 - react-icons (https://react-icons.github.io/react-icons/search?q=bars)
@@ -75,3 +30,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Google Fonts (https://fonts.google.com/specimen/Encode+Sans+Expanded?query=encode+sans+exp)
 - pexels.com (https://www.pexels.com/search/videos/data/)
 - undraw.co (https://undraw.co/illustrations)
+

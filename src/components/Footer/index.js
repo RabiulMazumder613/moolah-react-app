@@ -62,7 +62,7 @@ const Footer = () => {
                 </FooterLinksContainer>
                 <SocialMedia>
                     <SocialMediaWrap>
-                        <SocialLogo to='/' onClick={toggleHome}>dolla</SocialLogo>
+                        <SocialLogo to='/' onClick={toggleHome}>moolah</SocialLogo>
                         <SocialIcons>
                             <SocialIconLink href="//www.facebook.com/" target="_blank" aria-label="Facebook">
                                 <FaFacebook />
@@ -80,7 +80,7 @@ const Footer = () => {
                                 <FaLinkedin />
                             </SocialIconLink>
                         </SocialIcons>
-                        <WebsiteRights>© {new Date().getFullYear()} dolla. All rights reserved.</WebsiteRights>
+                        <WebsiteRights>© {new Date().getFullYear()} moolah. All rights reserved.</WebsiteRights>
                     </SocialMediaWrap>
                 </SocialMedia>
             </FooterWrap>

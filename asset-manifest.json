@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/moolah-react-app/static/css/main.eb844de5.chunk.css",
+    "main.js": "/moolah-react-app/static/js/main.b2730544.chunk.js",
+    "main.js.map": "/moolah-react-app/static/js/main.b2730544.chunk.js.map",
+    "runtime-main.js": "/moolah-react-app/static/js/runtime-main.61497c78.js",
+    "runtime-main.js.map": "/moolah-react-app/static/js/runtime-main.61497c78.js.map",
+    "static/js/2.f8bdc64d.chunk.js": "/moolah-react-app/static/js/2.f8bdc64d.chunk.js",
+    "static/js/2.f8bdc64d.chunk.js.map": "/moolah-react-app/static/js/2.f8bdc64d.chunk.js.map",
+    "index.html": "/moolah-react-app/index.html",
+    "static/css/main.eb844de5.chunk.css.map": "/moolah-react-app/static/css/main.eb844de5.chunk.css.map",
+    "static/js/2.f8bdc64d.chunk.js.LICENSE.txt": "/moolah-react-app/static/js/2.f8bdc64d.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/moolah-react-app/static/media/svg-1.b3ce3564.svg",
+    "static/media/svg-2.svg": "/moolah-react-app/static/media/svg-2.0d42ad90.svg",
+    "static/media/svg-3.svg": "/moolah-react-app/static/media/svg-3.00f12953.svg",
+    "static/media/svg-4.e4b85d4d.svg": "/moolah-react-app/static/media/svg-4.e4b85d4d.svg",
+    "static/media/svg-5.1fdd2568.svg": "/moolah-react-app/static/media/svg-5.1fdd2568.svg",
+    "static/media/svg-6.f1021e49.svg": "/moolah-react-app/static/media/svg-6.f1021e49.svg",
+    "static/media/video.910e8a45.mp4": "/moolah-react-app/static/media/video.910e8a45.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61497c78.js",
+    "static/js/2.f8bdc64d.chunk.js",
+    "static/css/main.eb844de5.chunk.css",
+    "static/js/main.b2730544.chunk.js"
+  ]
+}

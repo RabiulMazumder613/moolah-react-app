@@ -70,6 +70,7 @@ export const NavMenu = styled.ul`
 
 export const NavItem = styled.li`
     height: 80px;
+    margin-right: 45px;
 `
 
 export const NavLinks = styled(LinkS)`
@@ -82,7 +83,7 @@ export const NavLinks = styled(LinkS)`
     cursor: pointer;
 
     &.active {
-        border-bottom: 3px solid #01bf71;
+        border-bottom: 3px solid #FFBE00;
     }
 `;
 
@@ -97,7 +98,7 @@ export const NavBtn = styled.nav`
 
 export const NavBtnLink = styled(LinkR)`
     border-radius: 50px;
-    background: #01bf71;
+    background: #FFBE00;
     white-space: nowrap;
     padding: 10px 22px;
     color: #010606;

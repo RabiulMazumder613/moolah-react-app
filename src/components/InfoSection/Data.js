@@ -43,7 +43,7 @@ export const homeObjThree = {
     buttonLabel: 'Start Now',
     imgStart: false,
     img: require('../../images/svg-3.svg').default,
-    alt: 'Paper',
+    alt: 'Laptop',
     dark: false,
     primary: false,
     darkText: true
